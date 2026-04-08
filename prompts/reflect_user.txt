@@ -1,0 +1,21 @@
+## BUGGY CODE
+{buggy_code}
+
+## FAILING TESTS
+{test_suite}
+
+## LATEST ATTEMPT
+{repaired_code}
+
+## EVALUATION
+Error Class: {error_class}
+Error Message: {error_message}
+Score: {score}
+
+## ATTEMPT HISTORY
+{attempt_history}
+
+## MEMORY CONTEXT
+{memory_context}
+
+Return JSON only.

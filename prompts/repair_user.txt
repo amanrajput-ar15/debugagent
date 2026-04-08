@@ -1,0 +1,23 @@
+## BUGGY CODE
+{buggy_code}
+
+## FAILING TESTS
+{test_suite}
+
+## CURRENT ERROR
+Error Class: {error_class}
+Error Message: {error_message}
+
+## PREVIOUS ATTEMPTS (do NOT repeat these approaches)
+{attempt_history}
+
+## RELEVANT PAST FIXES FROM MEMORY
+{memory_context}
+
+## SPECIFIC HINT FROM REFLECTION
+{prompt_patch}
+
+## CONSTRAINTS
+{constraints}
+
+Return the complete fixed Python file. No markdown. No explanation.
